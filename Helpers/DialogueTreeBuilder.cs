@@ -1,7 +1,7 @@
 ﻿using NodeCanvas.DialogueTrees;
 using NodeCanvas.Framework;
 
-namespace EmoMount
+namespace EmoHelpers
 {
     public class DialogueTreeBuilder
     {
