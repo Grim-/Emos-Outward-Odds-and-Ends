@@ -12,7 +12,8 @@ using UnityEngine;
 namespace OutwardModTemplate
 {
     //You should for most projects give your plugin class type a name other than the default, it will help debugging later.
-    //If you are using Visual Studio you can select the class name declartion below and press ctrl + r then r again to rename it, you will see a rename box in the top right be default, this will rename it anywhere the name is used in your project
+    //If you are using Visual Studio you can select the class name declartion below and press ctrl + r then r again to rename it,
+    //you will see a rename box in the top right be default, this will rename it anywhere the name is used in your project
     [BepInPlugin(GUID, NAME, VERSION)]
     public class ModExamplePlugin : BaseUnityPlugin
     {
